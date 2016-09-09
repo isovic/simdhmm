@@ -1,0 +1,7 @@
+.cproject
+.project
+.settings/
+bin/
+obj_linux/
+obj_debug/
+obj_mac/

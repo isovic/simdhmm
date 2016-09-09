@@ -1,0 +1,3 @@
+[submodule "codebase/argparser"]
+	path = codebase/argparser
+	url = https://github.com/isovic/argparser.git
